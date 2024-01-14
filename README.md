@@ -1,4 +1,4 @@
-# Nvim chinese count with lua
+# Nvim chinese character count with lua
 
 A vim plugin that counts Chinese character with lua
 
